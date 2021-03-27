@@ -1,0 +1,160 @@
+body {
+    font-family: "Montserrat";
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat-Bold";
+}
+
+p {
+    color: #8f8f8f;
+}
+
+.big-heading{
+    font-family: "Montserrat-Black";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.section-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+/* Sections*/
+.section-fluid {
+    padding: 4% 8%;
+}
+
+.colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.white-section {
+    background-color: #fff;
+    
+}
+
+/* Navigation Bar */
+.navbar {
+    padding: 1rem;
+    min-width: 450px;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+/* Title Section */
+#title .container-fluid {
+    padding: 0;
+    text-align: left;
+}
+
+.title-data {
+    margin: 10px;
+    padding: 30px;
+}
+
+.title-data-item {
+    margin: 10px auto;
+}
+
+.title-image {
+    width: 18rem;
+    height: 18rem;    
+    transform: rotate(25deg);
+    border-radius: 100%;
+}
+
+/* Features Section */
+.feature-title {
+    font-size: 1.5rem;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+/* Testimonials Section */
+#testimonials {
+    background-color: #ef8172;
+}
+
+.testimomial-text{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+/* Carousel Section */ 
+.carousel-item {
+    min-height: 25rem;
+    padding: 30px;
+}
+
+.carousel-item-image {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 100%;
+    margin: 8px;
+}
+
+.carousel-data-slide {
+    margin: 5px;
+}
+
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    height: 15%;
+    margin: 20px 20px 50px;
+}
+
+/* Pricing Section */
+#pricing {
+    padding: 100px;    
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+.price-text {
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+/* CTA Section */
+
+/* Footer Section */
+.social-icon {
+    margin: 20px 10px;
+}
+  
+  
