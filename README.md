@@ -1,4 +1,8 @@
 # bootstrap-installation
+Вебсайт сумісний з мобільними пристроями
+Вебсайт доступний за адресою - https://rediska18.github.io/bootstrap-installation/
+TODO - перенести на окремий хостинг
+
 Перелік використаної літератури та посилань
 Веб сторінка курсу 
 1) https://www.udemy.com/course/the-complete-web-development-bootcamp/
